@@ -1,11 +1,11 @@
 h1 {
     text-align: center;
-    
+
 }
 
 .first {
     color:darkslateblue;
-    background-color:rgb(255,228,181);
+    background-color:#ffe4b5;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
@@ -32,7 +32,7 @@ h1 {
     font-style: italic;
 }
 
-div>p {
+div p {
     border-style:outset;
     border-color: mediumblue;
 }
