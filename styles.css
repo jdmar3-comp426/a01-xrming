@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+
+}
+
+.first {
+    color:darkslateblue;
+    background-color:#ffe4b5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.first:hover {
+    background-color: lightsteelblue;
+}
+
+.second {
+    color: paleturquoise;
+    background-color:rgb(255,160,122);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.third {
+    border: goldenrod;
+    border-style: double;
+}
+
+* {
+    text-align: center;
+}
+
+#heading {
+    font-style: italic;
+}
+
+div p {
+    border-style:outset;
+    border-color: mediumblue;
+}
+
+.fourth {
+    width: 1200px;
+}
+
+[lang|=en] {
+    word-wrap: normal;
+}
